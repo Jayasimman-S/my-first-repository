@@ -1,5 +1,6 @@
-# About Me
+## My Goals
 
-I am a first-year EEE student.
-
-I am learning programming, electronics, and technology.
+- Become strong in EEE
+- Learn programming
+- Build real projects
+- Prepare for a high-paying career
